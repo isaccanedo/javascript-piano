@@ -4,8 +4,6 @@
 
 ![](http://i1.buimg.com/567571/25498543018b401f.png)
 
-Click here [http://kaysonli.github.io/piano/dist/](http://kaysonli.github.io/piano/dist/) to play with it. Have fun!
-
 ## Build Setup
 
 ``` bash
